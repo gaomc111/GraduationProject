@@ -1,0 +1,4 @@
+2024年的综述
+链接预测：A comprehensive survey of link prediction methods
+图表征学习方法：A Survey on Graph Representation Learning Methods
+动态图神经网络：A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges
