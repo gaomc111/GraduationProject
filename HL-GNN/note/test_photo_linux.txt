@@ -1,0 +1,943 @@
+Hits@10
+Run: 01, Epoch: 132, Loss: 0.2542, Train: 43.59%, Valid: 40.56%, Test: 20.77%
+Hits@50
+Run: 01, Epoch: 132, Loss: 0.2542, Train: 70.15%, Valid: 65.72%, Test: 49.64%
+Hits@100
+Run: 01, Epoch: 132, Loss: 0.2542, Train: 83.52%, Valid: 78.69%, Test: 63.71%
+AUC
+Run: 01, Epoch: 132, Loss: 0.2542, Train: 99.04%, Valid: 98.62%, Test: 98.63%
+---
+Training Time Per Epoch:  1.2493 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 133, Loss: 0.2315, Train: 45.56%, Valid: 42.29%, Test: 16.39%
+Hits@50
+Run: 01, Epoch: 133, Loss: 0.2315, Train: 72.90%, Valid: 68.29%, Test: 51.05%
+Hits@100
+Run: 01, Epoch: 133, Loss: 0.2315, Train: 83.08%, Valid: 78.30%, Test: 67.43%
+AUC
+Run: 01, Epoch: 133, Loss: 0.2315, Train: 99.11%, Valid: 98.73%, Test: 98.77%
+---
+Training Time Per Epoch:  1.2046 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 134, Loss: 0.2280, Train: 47.71%, Valid: 44.66%, Test: 17.83%
+Hits@50
+Run: 01, Epoch: 134, Loss: 0.2280, Train: 70.53%, Valid: 66.59%, Test: 52.40%
+Hits@100
+Run: 01, Epoch: 134, Loss: 0.2280, Train: 82.91%, Valid: 78.85%, Test: 67.27%
+AUC
+Run: 01, Epoch: 134, Loss: 0.2280, Train: 99.07%, Valid: 98.66%, Test: 98.71%
+---
+Training Time Per Epoch:  1.2697 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 135, Loss: 0.2319, Train: 46.69%, Valid: 43.18%, Test: 13.16%
+Hits@50
+Run: 01, Epoch: 135, Loss: 0.2319, Train: 74.32%, Valid: 70.57%, Test: 50.16%
+Hits@100
+Run: 01, Epoch: 135, Loss: 0.2319, Train: 84.86%, Valid: 80.67%, Test: 66.34%
+AUC
+Run: 01, Epoch: 135, Loss: 0.2319, Train: 99.12%, Valid: 98.74%, Test: 98.75%
+---
+Training Time Per Epoch:  1.2347 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 136, Loss: 0.2392, Train: 34.99%, Valid: 32.70%, Test: 15.28%
+Hits@50
+Run: 01, Epoch: 136, Loss: 0.2392, Train: 69.99%, Valid: 65.70%, Test: 49.05%
+Hits@100
+Run: 01, Epoch: 136, Loss: 0.2392, Train: 84.38%, Valid: 80.63%, Test: 65.26%
+AUC
+Run: 01, Epoch: 136, Loss: 0.2392, Train: 99.07%, Valid: 98.70%, Test: 98.72%
+---
+Training Time Per Epoch:  1.2096 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 137, Loss: 0.2649, Train: 41.95%, Valid: 38.97%, Test: 23.21%
+Hits@50
+Run: 01, Epoch: 137, Loss: 0.2649, Train: 73.81%, Valid: 69.10%, Test: 53.33%
+Hits@100
+Run: 01, Epoch: 137, Loss: 0.2649, Train: 85.04%, Valid: 79.98%, Test: 66.90%
+AUC
+Run: 01, Epoch: 137, Loss: 0.2649, Train: 99.16%, Valid: 98.77%, Test: 98.77%
+---
+Training Time Per Epoch:  1.2670 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 138, Loss: 0.2441, Train: 46.43%, Valid: 43.25%, Test: 21.36%
+Hits@50
+Run: 01, Epoch: 138, Loss: 0.2441, Train: 72.75%, Valid: 68.14%, Test: 49.80%
+Hits@100
+Run: 01, Epoch: 138, Loss: 0.2441, Train: 86.01%, Valid: 81.51%, Test: 67.64%
+AUC
+Run: 01, Epoch: 138, Loss: 0.2441, Train: 99.18%, Valid: 98.81%, Test: 98.80%
+---
+Training Time Per Epoch:  1.2319 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 139, Loss: 0.2310, Train: 46.50%, Valid: 42.73%, Test: 14.73%
+Hits@50
+Run: 01, Epoch: 139, Loss: 0.2310, Train: 71.99%, Valid: 66.49%, Test: 56.02%
+Hits@100
+Run: 01, Epoch: 139, Loss: 0.2310, Train: 86.22%, Valid: 80.79%, Test: 69.51%
+AUC
+Run: 01, Epoch: 139, Loss: 0.2310, Train: 99.17%, Valid: 98.77%, Test: 98.82%
+---
+Training Time Per Epoch:  1.2034 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 140, Loss: 0.2284, Train: 48.35%, Valid: 44.61%, Test: 16.32%
+Hits@50
+Run: 01, Epoch: 140, Loss: 0.2284, Train: 72.71%, Valid: 68.19%, Test: 54.76%
+Hits@100
+Run: 01, Epoch: 140, Loss: 0.2284, Train: 86.44%, Valid: 82.03%, Test: 68.16%
+AUC
+Run: 01, Epoch: 140, Loss: 0.2284, Train: 99.22%, Valid: 98.84%, Test: 98.82%
+---
+Training Time Per Epoch:  1.2726 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 141, Loss: 0.2254, Train: 50.17%, Valid: 46.12%, Test: 24.76%
+Hits@50
+Run: 01, Epoch: 141, Loss: 0.2254, Train: 72.23%, Valid: 67.60%, Test: 51.07%
+Hits@100
+Run: 01, Epoch: 141, Loss: 0.2254, Train: 86.42%, Valid: 81.78%, Test: 67.57%
+AUC
+Run: 01, Epoch: 141, Loss: 0.2254, Train: 99.19%, Valid: 98.79%, Test: 98.80%
+---
+Training Time Per Epoch:  1.1954 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 142, Loss: 0.2162, Train: 52.52%, Valid: 48.79%, Test: 16.54%
+Hits@50
+Run: 01, Epoch: 142, Loss: 0.2162, Train: 72.24%, Valid: 67.42%, Test: 55.20%
+Hits@100
+Run: 01, Epoch: 142, Loss: 0.2162, Train: 86.06%, Valid: 81.58%, Test: 68.82%
+AUC
+Run: 01, Epoch: 142, Loss: 0.2162, Train: 99.18%, Valid: 98.78%, Test: 98.82%
+---
+Training Time Per Epoch:  1.1642 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 143, Loss: 0.2131, Train: 45.69%, Valid: 42.02%, Test: 19.31%
+Hits@50
+Run: 01, Epoch: 143, Loss: 0.2131, Train: 74.05%, Valid: 69.18%, Test: 51.77%
+Hits@100
+Run: 01, Epoch: 143, Loss: 0.2131, Train: 85.95%, Valid: 80.70%, Test: 68.99%
+AUC
+Run: 01, Epoch: 143, Loss: 0.2131, Train: 99.22%, Valid: 98.83%, Test: 98.86%
+---
+Training Time Per Epoch:  1.2366 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 144, Loss: 0.2115, Train: 46.28%, Valid: 42.39%, Test: 16.14%
+Hits@50
+Run: 01, Epoch: 144, Loss: 0.2115, Train: 72.32%, Valid: 67.80%, Test: 51.19%
+Hits@100
+Run: 01, Epoch: 144, Loss: 0.2115, Train: 84.82%, Valid: 80.25%, Test: 65.49%
+AUC
+Run: 01, Epoch: 144, Loss: 0.2115, Train: 99.15%, Valid: 98.75%, Test: 98.76%
+---
+Training Time Per Epoch:  1.2496 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 145, Loss: 0.2202, Train: 46.77%, Valid: 43.48%, Test: 19.32%
+Hits@50
+Run: 01, Epoch: 145, Loss: 0.2202, Train: 72.75%, Valid: 68.31%, Test: 54.09%
+Hits@100
+Run: 01, Epoch: 145, Loss: 0.2202, Train: 84.47%, Valid: 80.03%, Test: 68.84%
+AUC
+Run: 01, Epoch: 145, Loss: 0.2202, Train: 99.19%, Valid: 98.81%, Test: 98.83%
+---
+Training Time Per Epoch:  1.1826 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 146, Loss: 0.2040, Train: 48.68%, Valid: 44.37%, Test: 17.81%
+Hits@50
+Run: 01, Epoch: 146, Loss: 0.2040, Train: 73.10%, Valid: 68.07%, Test: 57.21%
+Hits@100
+Run: 01, Epoch: 146, Loss: 0.2040, Train: 87.19%, Valid: 81.89%, Test: 70.17%
+AUC
+Run: 01, Epoch: 146, Loss: 0.2040, Train: 99.23%, Valid: 98.79%, Test: 98.85%
+---
+Training Time Per Epoch:  1.2691 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 147, Loss: 0.2229, Train: 45.86%, Valid: 42.11%, Test: 17.00%
+Hits@50
+Run: 01, Epoch: 147, Loss: 0.2229, Train: 73.74%, Valid: 69.10%, Test: 50.32%
+Hits@100
+Run: 01, Epoch: 147, Loss: 0.2229, Train: 84.81%, Valid: 80.70%, Test: 66.48%
+AUC
+Run: 01, Epoch: 147, Loss: 0.2229, Train: 99.15%, Valid: 98.78%, Test: 98.79%
+---
+Training Time Per Epoch:  1.1769 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 148, Loss: 0.2358, Train: 49.38%, Valid: 45.25%, Test: 21.57%
+Hits@50
+Run: 01, Epoch: 148, Loss: 0.2358, Train: 73.67%, Valid: 68.58%, Test: 51.55%
+Hits@100
+Run: 01, Epoch: 148, Loss: 0.2358, Train: 83.97%, Valid: 79.34%, Test: 66.90%
+AUC
+Run: 01, Epoch: 148, Loss: 0.2358, Train: 99.16%, Valid: 98.73%, Test: 98.75%
+---
+Training Time Per Epoch:  1.1766 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 149, Loss: 0.2175, Train: 46.30%, Valid: 42.58%, Test: 22.55%
+Hits@50
+Run: 01, Epoch: 149, Loss: 0.2175, Train: 69.66%, Valid: 64.83%, Test: 55.16%
+Hits@100
+Run: 01, Epoch: 149, Loss: 0.2175, Train: 84.65%, Valid: 80.13%, Test: 70.16%
+AUC
+Run: 01, Epoch: 149, Loss: 0.2175, Train: 99.17%, Valid: 98.77%, Test: 98.85%
+---
+Training Time Per Epoch:  1.2359 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 150, Loss: 0.2018, Train: 52.50%, Valid: 48.20%, Test: 17.37%
+Hits@50
+Run: 01, Epoch: 150, Loss: 0.2018, Train: 74.27%, Valid: 69.30%, Test: 51.60%
+Hits@100
+Run: 01, Epoch: 150, Loss: 0.2018, Train: 87.59%, Valid: 82.10%, Test: 71.09%
+AUC
+Run: 01, Epoch: 150, Loss: 0.2018, Train: 99.25%, Valid: 98.84%, Test: 98.84%
+---
+Training Time Per Epoch:  1.1769 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 151, Loss: 0.2112, Train: 50.61%, Valid: 46.15%, Test: 21.62%
+Hits@50
+Run: 01, Epoch: 151, Loss: 0.2112, Train: 71.97%, Valid: 66.91%, Test: 52.15%
+Hits@100
+Run: 01, Epoch: 151, Loss: 0.2112, Train: 86.16%, Valid: 81.29%, Test: 70.47%
+AUC
+Run: 01, Epoch: 151, Loss: 0.2112, Train: 99.24%, Valid: 98.85%, Test: 98.86%
+---
+Training Time Per Epoch:  1.1585 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 152, Loss: 0.1998, Train: 48.22%, Valid: 43.74%, Test: 17.76%
+Hits@50
+Run: 01, Epoch: 152, Loss: 0.1998, Train: 74.03%, Valid: 68.44%, Test: 54.32%
+Hits@100
+Run: 01, Epoch: 152, Loss: 0.1998, Train: 87.28%, Valid: 81.59%, Test: 70.30%
+AUC
+Run: 01, Epoch: 152, Loss: 0.1998, Train: 99.25%, Valid: 98.83%, Test: 98.86%
+---
+Training Time Per Epoch:  1.2305 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 153, Loss: 0.2121, Train: 43.03%, Valid: 39.28%, Test: 24.58%
+Hits@50
+Run: 01, Epoch: 153, Loss: 0.2121, Train: 72.60%, Valid: 66.63%, Test: 50.91%
+Hits@100
+Run: 01, Epoch: 153, Loss: 0.2121, Train: 87.02%, Valid: 81.29%, Test: 69.15%
+AUC
+Run: 01, Epoch: 153, Loss: 0.2121, Train: 99.24%, Valid: 98.83%, Test: 98.82%
+---
+Training Time Per Epoch:  1.1976 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 154, Loss: 0.2910, Train: 39.61%, Valid: 37.24%, Test: 17.46%
+Hits@50
+Run: 01, Epoch: 154, Loss: 0.2910, Train: 67.68%, Valid: 64.07%, Test: 47.96%
+Hits@100
+Run: 01, Epoch: 154, Loss: 0.2910, Train: 78.86%, Valid: 75.46%, Test: 64.11%
+AUC
+Run: 01, Epoch: 154, Loss: 0.2910, Train: 98.85%, Valid: 98.50%, Test: 98.57%
+---
+Training Time Per Epoch:  1.2202 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 155, Loss: 0.2799, Train: 37.53%, Valid: 34.50%, Test: 12.49%
+Hits@50
+Run: 01, Epoch: 155, Loss: 0.2799, Train: 67.80%, Valid: 62.51%, Test: 46.86%
+Hits@100
+Run: 01, Epoch: 155, Loss: 0.2799, Train: 80.72%, Valid: 75.76%, Test: 62.20%
+AUC
+Run: 01, Epoch: 155, Loss: 0.2799, Train: 98.91%, Valid: 98.45%, Test: 98.54%
+---
+Training Time Per Epoch:  1.2688 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 156, Loss: 0.2349, Train: 44.91%, Valid: 41.47%, Test: 23.26%
+Hits@50
+Run: 01, Epoch: 156, Loss: 0.2349, Train: 70.58%, Valid: 65.85%, Test: 53.01%
+Hits@100
+Run: 01, Epoch: 156, Loss: 0.2349, Train: 85.60%, Valid: 81.05%, Test: 69.87%
+AUC
+Run: 01, Epoch: 156, Loss: 0.2349, Train: 99.15%, Valid: 98.77%, Test: 98.82%
+---
+Training Time Per Epoch:  1.2046 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 157, Loss: 0.2216, Train: 45.04%, Valid: 41.27%, Test: 14.99%
+Hits@50
+Run: 01, Epoch: 157, Loss: 0.2216, Train: 71.79%, Valid: 66.53%, Test: 48.86%
+Hits@100
+Run: 01, Epoch: 157, Loss: 0.2216, Train: 84.18%, Valid: 79.36%, Test: 66.83%
+AUC
+Run: 01, Epoch: 157, Loss: 0.2216, Train: 99.08%, Valid: 98.62%, Test: 98.68%
+---
+Training Time Per Epoch:  1.1653 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 158, Loss: 0.2339, Train: 46.49%, Valid: 43.18%, Test: 14.30%
+Hits@50
+Run: 01, Epoch: 158, Loss: 0.2339, Train: 70.62%, Valid: 65.91%, Test: 47.73%
+Hits@100
+Run: 01, Epoch: 158, Loss: 0.2339, Train: 84.25%, Valid: 79.74%, Test: 66.99%
+AUC
+Run: 01, Epoch: 158, Loss: 0.2339, Train: 99.11%, Valid: 98.67%, Test: 98.70%
+---
+Training Time Per Epoch:  1.2386 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 159, Loss: 0.2292, Train: 51.07%, Valid: 46.86%, Test: 16.33%
+Hits@50
+Run: 01, Epoch: 159, Loss: 0.2292, Train: 75.26%, Valid: 70.59%, Test: 49.43%
+Hits@100
+Run: 01, Epoch: 159, Loss: 0.2292, Train: 83.96%, Valid: 79.24%, Test: 65.75%
+AUC
+Run: 01, Epoch: 159, Loss: 0.2292, Train: 99.14%, Valid: 98.72%, Test: 98.73%
+---
+Training Time Per Epoch:  1.1551 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 160, Loss: 0.2270, Train: 44.87%, Valid: 41.67%, Test: 20.56%
+Hits@50
+Run: 01, Epoch: 160, Loss: 0.2270, Train: 72.43%, Valid: 67.75%, Test: 52.17%
+Hits@100
+Run: 01, Epoch: 160, Loss: 0.2270, Train: 84.74%, Valid: 80.15%, Test: 69.41%
+AUC
+Run: 01, Epoch: 160, Loss: 0.2270, Train: 99.18%, Valid: 98.77%, Test: 98.82%
+---
+Training Time Per Epoch:  1.1751 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 161, Loss: 0.2030, Train: 49.17%, Valid: 45.08%, Test: 23.53%
+Hits@50
+Run: 01, Epoch: 161, Loss: 0.2030, Train: 74.75%, Valid: 69.20%, Test: 54.81%
+Hits@100
+Run: 01, Epoch: 161, Loss: 0.2030, Train: 87.58%, Valid: 82.26%, Test: 70.89%
+AUC
+Run: 01, Epoch: 161, Loss: 0.2030, Train: 99.28%, Valid: 98.83%, Test: 98.87%
+---
+Training Time Per Epoch:  1.2251 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 162, Loss: 0.2053, Train: 55.75%, Valid: 50.81%, Test: 22.27%
+Hits@50
+Run: 01, Epoch: 162, Loss: 0.2053, Train: 76.59%, Valid: 70.12%, Test: 55.00%
+Hits@100
+Run: 01, Epoch: 162, Loss: 0.2053, Train: 88.61%, Valid: 82.89%, Test: 71.10%
+AUC
+Run: 01, Epoch: 162, Loss: 0.2053, Train: 99.33%, Valid: 98.92%, Test: 98.91%
+---
+Training Time Per Epoch:  1.1700 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 163, Loss: 0.1992, Train: 51.96%, Valid: 47.04%, Test: 27.02%
+Hits@50
+Run: 01, Epoch: 163, Loss: 0.1992, Train: 77.04%, Valid: 70.36%, Test: 55.48%
+Hits@100
+Run: 01, Epoch: 163, Loss: 0.1992, Train: 90.11%, Valid: 84.48%, Test: 72.85%
+AUC
+Run: 01, Epoch: 163, Loss: 0.1992, Train: 99.35%, Valid: 98.93%, Test: 98.93%
+---
+Training Time Per Epoch:  1.1581 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 164, Loss: 0.2136, Train: 50.62%, Valid: 46.36%, Test: 24.44%
+Hits@50
+Run: 01, Epoch: 164, Loss: 0.2136, Train: 76.23%, Valid: 71.20%, Test: 52.18%
+Hits@100
+Run: 01, Epoch: 164, Loss: 0.2136, Train: 88.48%, Valid: 82.67%, Test: 71.41%
+AUC
+Run: 01, Epoch: 164, Loss: 0.2136, Train: 99.30%, Valid: 98.88%, Test: 98.88%
+---
+Training Time Per Epoch:  1.2367 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 165, Loss: 0.2001, Train: 50.46%, Valid: 45.15%, Test: 22.26%
+Hits@50
+Run: 01, Epoch: 165, Loss: 0.2001, Train: 76.86%, Valid: 69.94%, Test: 52.74%
+Hits@100
+Run: 01, Epoch: 165, Loss: 0.2001, Train: 88.08%, Valid: 82.00%, Test: 72.21%
+AUC
+Run: 01, Epoch: 165, Loss: 0.2001, Train: 99.32%, Valid: 98.88%, Test: 98.91%
+---
+Training Time Per Epoch:  1.1777 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 166, Loss: 0.2076, Train: 51.12%, Valid: 46.42%, Test: 24.15%
+Hits@50
+Run: 01, Epoch: 166, Loss: 0.2076, Train: 75.24%, Valid: 69.30%, Test: 57.66%
+Hits@100
+Run: 01, Epoch: 166, Loss: 0.2076, Train: 88.25%, Valid: 82.65%, Test: 70.76%
+AUC
+Run: 01, Epoch: 166, Loss: 0.2076, Train: 99.29%, Valid: 98.86%, Test: 98.91%
+---
+Training Time Per Epoch:  1.1738 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 167, Loss: 0.2036, Train: 55.69%, Valid: 50.42%, Test: 22.75%
+Hits@50
+Run: 01, Epoch: 167, Loss: 0.2036, Train: 79.12%, Valid: 72.00%, Test: 57.72%
+Hits@100
+Run: 01, Epoch: 167, Loss: 0.2036, Train: 89.20%, Valid: 82.75%, Test: 71.40%
+AUC
+Run: 01, Epoch: 167, Loss: 0.2036, Train: 99.37%, Valid: 98.94%, Test: 98.96%
+---
+Training Time Per Epoch:  1.2318 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 168, Loss: 0.1900, Train: 50.85%, Valid: 45.65%, Test: 25.10%
+Hits@50
+Run: 01, Epoch: 168, Loss: 0.1900, Train: 77.76%, Valid: 70.56%, Test: 56.97%
+Hits@100
+Run: 01, Epoch: 168, Loss: 0.1900, Train: 89.91%, Valid: 83.42%, Test: 72.75%
+AUC
+Run: 01, Epoch: 168, Loss: 0.1900, Train: 99.35%, Valid: 98.90%, Test: 98.91%
+---
+Training Time Per Epoch:  1.1693 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 169, Loss: 0.2000, Train: 52.82%, Valid: 47.53%, Test: 25.42%
+Hits@50
+Run: 01, Epoch: 169, Loss: 0.2000, Train: 77.33%, Valid: 71.13%, Test: 59.41%
+Hits@100
+Run: 01, Epoch: 169, Loss: 0.2000, Train: 89.34%, Valid: 83.14%, Test: 71.37%
+AUC
+Run: 01, Epoch: 169, Loss: 0.2000, Train: 99.35%, Valid: 98.91%, Test: 98.93%
+---
+Training Time Per Epoch:  1.1740 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 170, Loss: 0.1932, Train: 48.35%, Valid: 43.08%, Test: 27.42%
+Hits@50
+Run: 01, Epoch: 170, Loss: 0.1932, Train: 75.90%, Valid: 69.40%, Test: 55.01%
+Hits@100
+Run: 01, Epoch: 170, Loss: 0.1932, Train: 88.81%, Valid: 82.48%, Test: 71.85%
+AUC
+Run: 01, Epoch: 170, Loss: 0.1932, Train: 99.34%, Valid: 98.88%, Test: 98.92%
+---
+Training Time Per Epoch:  1.2275 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 171, Loss: 0.1946, Train: 53.25%, Valid: 48.07%, Test: 21.87%
+Hits@50
+Run: 01, Epoch: 171, Loss: 0.1946, Train: 79.21%, Valid: 72.29%, Test: 57.52%
+Hits@100
+Run: 01, Epoch: 171, Loss: 0.1946, Train: 89.86%, Valid: 83.31%, Test: 70.47%
+AUC
+Run: 01, Epoch: 171, Loss: 0.1946, Train: 99.36%, Valid: 98.92%, Test: 98.92%
+---
+Training Time Per Epoch:  1.1647 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 172, Loss: 0.2155, Train: 50.17%, Valid: 45.67%, Test: 22.48%
+Hits@50
+Run: 01, Epoch: 172, Loss: 0.2155, Train: 77.31%, Valid: 71.38%, Test: 54.46%
+Hits@100
+Run: 01, Epoch: 172, Loss: 0.2155, Train: 87.72%, Valid: 82.45%, Test: 68.59%
+AUC
+Run: 01, Epoch: 172, Loss: 0.2155, Train: 99.31%, Valid: 98.88%, Test: 98.87%
+---
+Training Time Per Epoch:  1.1641 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 173, Loss: 0.2093, Train: 47.42%, Valid: 43.06%, Test: 22.39%
+Hits@50
+Run: 01, Epoch: 173, Loss: 0.2093, Train: 71.79%, Valid: 66.71%, Test: 53.35%
+Hits@100
+Run: 01, Epoch: 173, Loss: 0.2093, Train: 86.60%, Valid: 81.21%, Test: 69.26%
+AUC
+Run: 01, Epoch: 173, Loss: 0.2093, Train: 99.22%, Valid: 98.77%, Test: 98.85%
+---
+Training Time Per Epoch:  1.2367 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 174, Loss: 0.1983, Train: 52.78%, Valid: 47.98%, Test: 20.85%
+Hits@50
+Run: 01, Epoch: 174, Loss: 0.1983, Train: 77.17%, Valid: 71.11%, Test: 52.33%
+Hits@100
+Run: 01, Epoch: 174, Loss: 0.1983, Train: 86.89%, Valid: 81.41%, Test: 68.92%
+AUC
+Run: 01, Epoch: 174, Loss: 0.1983, Train: 99.32%, Valid: 98.89%, Test: 98.88%
+---
+Training Time Per Epoch:  1.1849 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 175, Loss: 0.2008, Train: 47.46%, Valid: 43.68%, Test: 20.95%
+Hits@50
+Run: 01, Epoch: 175, Loss: 0.2008, Train: 73.01%, Valid: 66.91%, Test: 54.38%
+Hits@100
+Run: 01, Epoch: 175, Loss: 0.2008, Train: 87.55%, Valid: 81.79%, Test: 70.76%
+AUC
+Run: 01, Epoch: 175, Loss: 0.2008, Train: 99.24%, Valid: 98.77%, Test: 98.84%
+---
+Training Time Per Epoch:  1.1702 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 176, Loss: 0.2141, Train: 51.22%, Valid: 46.64%, Test: 21.72%
+Hits@50
+Run: 01, Epoch: 176, Loss: 0.2141, Train: 74.65%, Valid: 68.56%, Test: 54.37%
+Hits@100
+Run: 01, Epoch: 176, Loss: 0.2141, Train: 89.00%, Valid: 83.04%, Test: 68.01%
+AUC
+Run: 01, Epoch: 176, Loss: 0.2141, Train: 99.35%, Valid: 98.91%, Test: 98.89%
+---
+Training Time Per Epoch:  1.2262 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 177, Loss: 0.2484, Train: 48.31%, Valid: 43.06%, Test: 27.35%
+Hits@50
+Run: 01, Epoch: 177, Loss: 0.2484, Train: 72.96%, Valid: 67.18%, Test: 57.70%
+Hits@100
+Run: 01, Epoch: 177, Loss: 0.2484, Train: 87.40%, Valid: 81.44%, Test: 70.66%
+AUC
+Run: 01, Epoch: 177, Loss: 0.2484, Train: 99.26%, Valid: 98.81%, Test: 98.85%
+---
+Training Time Per Epoch:  1.1921 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 178, Loss: 0.2448, Train: 52.16%, Valid: 47.62%, Test: 18.67%
+Hits@50
+Run: 01, Epoch: 178, Loss: 0.2448, Train: 73.67%, Valid: 68.26%, Test: 49.36%
+Hits@100
+Run: 01, Epoch: 178, Loss: 0.2448, Train: 85.67%, Valid: 80.82%, Test: 67.24%
+AUC
+Run: 01, Epoch: 178, Loss: 0.2448, Train: 99.21%, Valid: 98.77%, Test: 98.78%
+---
+Training Time Per Epoch:  1.1738 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 179, Loss: 0.2049, Train: 46.99%, Valid: 43.13%, Test: 24.87%
+Hits@50
+Run: 01, Epoch: 179, Loss: 0.2049, Train: 74.61%, Valid: 68.59%, Test: 53.03%
+Hits@100
+Run: 01, Epoch: 179, Loss: 0.2049, Train: 86.54%, Valid: 80.42%, Test: 69.84%
+AUC
+Run: 01, Epoch: 179, Loss: 0.2049, Train: 99.26%, Valid: 98.81%, Test: 98.86%
+---
+Training Time Per Epoch:  1.2362 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 180, Loss: 0.1959, Train: 48.46%, Valid: 44.64%, Test: 17.70%
+Hits@50
+Run: 01, Epoch: 180, Loss: 0.1959, Train: 73.59%, Valid: 67.79%, Test: 56.16%
+Hits@100
+Run: 01, Epoch: 180, Loss: 0.1959, Train: 88.17%, Valid: 82.73%, Test: 72.32%
+AUC
+Run: 01, Epoch: 180, Loss: 0.1959, Train: 99.28%, Valid: 98.82%, Test: 98.90%
+---
+Training Time Per Epoch:  1.1906 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 181, Loss: 0.2051, Train: 53.41%, Valid: 48.10%, Test: 23.66%
+Hits@50
+Run: 01, Epoch: 181, Loss: 0.2051, Train: 76.32%, Valid: 69.38%, Test: 55.81%
+Hits@100
+Run: 01, Epoch: 181, Loss: 0.2051, Train: 89.37%, Valid: 83.10%, Test: 72.75%
+AUC
+Run: 01, Epoch: 181, Loss: 0.2051, Train: 99.36%, Valid: 98.88%, Test: 98.91%
+---
+Training Time Per Epoch:  1.1638 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 182, Loss: 0.1852, Train: 55.63%, Valid: 49.71%, Test: 19.02%
+Hits@50
+Run: 01, Epoch: 182, Loss: 0.1852, Train: 78.44%, Valid: 70.98%, Test: 58.83%
+Hits@100
+Run: 01, Epoch: 182, Loss: 0.1852, Train: 88.81%, Valid: 82.01%, Test: 72.20%
+AUC
+Run: 01, Epoch: 182, Loss: 0.1852, Train: 99.40%, Valid: 98.93%, Test: 98.96%
+---
+Training Time Per Epoch:  1.2323 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 183, Loss: 0.1968, Train: 50.95%, Valid: 45.94%, Test: 24.83%
+Hits@50
+Run: 01, Epoch: 183, Loss: 0.1968, Train: 78.01%, Valid: 71.28%, Test: 59.56%
+Hits@100
+Run: 01, Epoch: 183, Loss: 0.1968, Train: 90.38%, Valid: 84.21%, Test: 72.13%
+AUC
+Run: 01, Epoch: 183, Loss: 0.1968, Train: 99.37%, Valid: 98.91%, Test: 98.95%
+---
+Training Time Per Epoch:  1.2265 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 184, Loss: 0.1857, Train: 52.05%, Valid: 46.67%, Test: 25.00%
+Hits@50
+Run: 01, Epoch: 184, Loss: 0.1857, Train: 77.50%, Valid: 70.88%, Test: 56.68%
+Hits@100
+Run: 01, Epoch: 184, Loss: 0.1857, Train: 89.27%, Valid: 82.72%, Test: 72.39%
+AUC
+Run: 01, Epoch: 184, Loss: 0.1857, Train: 99.36%, Valid: 98.89%, Test: 98.92%
+---
+Training Time Per Epoch:  1.2072 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 185, Loss: 0.1758, Train: 58.45%, Valid: 52.27%, Test: 29.69%
+Hits@50
+Run: 01, Epoch: 185, Loss: 0.1758, Train: 79.25%, Valid: 71.97%, Test: 57.30%
+Hits@100
+Run: 01, Epoch: 185, Loss: 0.1758, Train: 91.59%, Valid: 85.49%, Test: 74.50%
+AUC
+Run: 01, Epoch: 185, Loss: 0.1758, Train: 99.43%, Valid: 98.96%, Test: 98.98%
+---
+Training Time Per Epoch:  1.2534 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 186, Loss: 0.1827, Train: 53.35%, Valid: 48.07%, Test: 24.13%
+Hits@50
+Run: 01, Epoch: 186, Loss: 0.1827, Train: 77.63%, Valid: 70.84%, Test: 56.45%
+Hits@100
+Run: 01, Epoch: 186, Loss: 0.1827, Train: 89.39%, Valid: 82.97%, Test: 71.99%
+AUC
+Run: 01, Epoch: 186, Loss: 0.1827, Train: 99.37%, Valid: 98.88%, Test: 98.92%
+---
+Training Time Per Epoch:  1.1824 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 187, Loss: 0.2035, Train: 53.79%, Valid: 48.42%, Test: 20.55%
+Hits@50
+Run: 01, Epoch: 187, Loss: 0.2035, Train: 76.97%, Valid: 70.91%, Test: 51.68%
+Hits@100
+Run: 01, Epoch: 187, Loss: 0.2035, Train: 87.77%, Valid: 82.35%, Test: 69.55%
+AUC
+Run: 01, Epoch: 187, Loss: 0.2035, Train: 99.29%, Valid: 98.83%, Test: 98.87%
+---
+Training Time Per Epoch:  1.1675 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 188, Loss: 0.2300, Train: 56.86%, Valid: 50.87%, Test: 25.94%
+Hits@50
+Run: 01, Epoch: 188, Loss: 0.2300, Train: 78.24%, Valid: 70.96%, Test: 57.28%
+Hits@100
+Run: 01, Epoch: 188, Loss: 0.2300, Train: 88.67%, Valid: 82.00%, Test: 71.92%
+AUC
+Run: 01, Epoch: 188, Loss: 0.2300, Train: 99.35%, Valid: 98.85%, Test: 98.90%
+---
+Training Time Per Epoch:  1.2279 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 189, Loss: 0.2012, Train: 51.97%, Valid: 46.91%, Test: 21.36%
+Hits@50
+Run: 01, Epoch: 189, Loss: 0.2012, Train: 78.28%, Valid: 71.75%, Test: 56.37%
+Hits@100
+Run: 01, Epoch: 189, Loss: 0.2012, Train: 88.42%, Valid: 81.56%, Test: 68.37%
+AUC
+Run: 01, Epoch: 189, Loss: 0.2012, Train: 99.32%, Valid: 98.83%, Test: 98.84%
+---
+Training Time Per Epoch:  1.1873 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 190, Loss: 0.1892, Train: 48.94%, Valid: 43.47%, Test: 29.90%
+Hits@50
+Run: 01, Epoch: 190, Loss: 0.1892, Train: 77.19%, Valid: 70.17%, Test: 57.35%
+Hits@100
+Run: 01, Epoch: 190, Loss: 0.1892, Train: 88.85%, Valid: 81.94%, Test: 74.20%
+AUC
+Run: 01, Epoch: 190, Loss: 0.1892, Train: 99.34%, Valid: 98.88%, Test: 98.99%
+---
+Training Time Per Epoch:  1.1717 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 191, Loss: 0.1846, Train: 49.29%, Valid: 43.97%, Test: 23.71%
+Hits@50
+Run: 01, Epoch: 191, Loss: 0.1846, Train: 78.63%, Valid: 71.78%, Test: 57.10%
+Hits@100
+Run: 01, Epoch: 191, Loss: 0.1846, Train: 89.66%, Valid: 82.84%, Test: 71.61%
+AUC
+Run: 01, Epoch: 191, Loss: 0.1846, Train: 99.36%, Valid: 98.85%, Test: 98.88%
+---
+Training Time Per Epoch:  1.2293 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 192, Loss: 0.1791, Train: 53.78%, Valid: 47.33%, Test: 23.65%
+Hits@50
+Run: 01, Epoch: 192, Loss: 0.1791, Train: 80.49%, Valid: 72.74%, Test: 57.33%
+Hits@100
+Run: 01, Epoch: 192, Loss: 0.1791, Train: 90.87%, Valid: 83.84%, Test: 72.27%
+AUC
+Run: 01, Epoch: 192, Loss: 0.1791, Train: 99.41%, Valid: 98.92%, Test: 98.93%
+---
+Training Time Per Epoch:  1.2041 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 193, Loss: 0.1745, Train: 56.94%, Valid: 50.22%, Test: 23.33%
+Hits@50
+Run: 01, Epoch: 193, Loss: 0.1745, Train: 80.09%, Valid: 72.30%, Test: 59.04%
+Hits@100
+Run: 01, Epoch: 193, Loss: 0.1745, Train: 88.24%, Valid: 81.29%, Test: 72.68%
+AUC
+Run: 01, Epoch: 193, Loss: 0.1745, Train: 99.39%, Valid: 98.89%, Test: 98.94%
+---
+Training Time Per Epoch:  1.1755 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 194, Loss: 0.1733, Train: 55.75%, Valid: 49.36%, Test: 26.03%
+Hits@50
+Run: 01, Epoch: 194, Loss: 0.1733, Train: 79.51%, Valid: 71.40%, Test: 53.78%
+Hits@100
+Run: 01, Epoch: 194, Loss: 0.1733, Train: 90.10%, Valid: 83.07%, Test: 70.62%
+AUC
+Run: 01, Epoch: 194, Loss: 0.1733, Train: 99.43%, Valid: 98.94%, Test: 98.91%
+---
+Training Time Per Epoch:  1.2253 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 195, Loss: 0.1779, Train: 47.91%, Valid: 42.32%, Test: 28.93%
+Hits@50
+Run: 01, Epoch: 195, Loss: 0.1779, Train: 75.85%, Valid: 68.95%, Test: 56.65%
+Hits@100
+Run: 01, Epoch: 195, Loss: 0.1779, Train: 88.02%, Valid: 81.44%, Test: 68.53%
+AUC
+Run: 01, Epoch: 195, Loss: 0.1779, Train: 99.30%, Valid: 98.79%, Test: 98.88%
+---
+Training Time Per Epoch:  1.1950 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 196, Loss: 0.1994, Train: 55.63%, Valid: 50.39%, Test: 20.83%
+Hits@50
+Run: 01, Epoch: 196, Loss: 0.1994, Train: 76.66%, Valid: 70.41%, Test: 52.51%
+Hits@100
+Run: 01, Epoch: 196, Loss: 0.1994, Train: 87.15%, Valid: 81.89%, Test: 70.59%
+AUC
+Run: 01, Epoch: 196, Loss: 0.1994, Train: 99.27%, Valid: 98.78%, Test: 98.85%
+---
+Training Time Per Epoch:  1.1738 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 197, Loss: 0.2524, Train: 56.73%, Valid: 50.66%, Test: 21.83%
+Hits@50
+Run: 01, Epoch: 197, Loss: 0.2524, Train: 80.64%, Valid: 73.13%, Test: 60.15%
+Hits@100
+Run: 01, Epoch: 197, Loss: 0.2524, Train: 91.10%, Valid: 84.78%, Test: 72.35%
+AUC
+Run: 01, Epoch: 197, Loss: 0.2524, Train: 99.39%, Valid: 98.92%, Test: 98.95%
+---
+Training Time Per Epoch:  1.2297 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 198, Loss: 0.2120, Train: 52.21%, Valid: 47.95%, Test: 16.53%
+Hits@50
+Run: 01, Epoch: 198, Loss: 0.2120, Train: 75.31%, Valid: 68.96%, Test: 54.04%
+Hits@100
+Run: 01, Epoch: 198, Loss: 0.2120, Train: 87.53%, Valid: 81.19%, Test: 70.21%
+AUC
+Run: 01, Epoch: 198, Loss: 0.2120, Train: 99.29%, Valid: 98.75%, Test: 98.79%
+---
+Training Time Per Epoch:  1.2004 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 199, Loss: 0.1878, Train: 55.26%, Valid: 48.34%, Test: 20.06%
+Hits@50
+Run: 01, Epoch: 199, Loss: 0.1878, Train: 76.78%, Valid: 68.42%, Test: 53.48%
+Hits@100
+Run: 01, Epoch: 199, Loss: 0.1878, Train: 86.97%, Valid: 79.68%, Test: 66.95%
+AUC
+Run: 01, Epoch: 199, Loss: 0.1878, Train: 99.31%, Valid: 98.80%, Test: 98.84%
+---
+Training Time Per Epoch:  1.1660 s
+---
+/home/gaomingchen/anaconda3/envs/HL-GNN/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Hits@10
+Run: 01, Epoch: 200, Loss: 0.1845, Train: 54.63%, Valid: 48.40%, Test: 27.17%
+Hits@50
+Run: 01, Epoch: 200, Loss: 0.1845, Train: 76.70%, Valid: 69.31%, Test: 62.05%
+Hits@100
+Run: 01, Epoch: 200, Loss: 0.1845, Train: 90.94%, Valid: 84.43%, Test: 73.34%
+AUC
+Run: 01, Epoch: 200, Loss: 0.1845, Train: 99.37%, Valid: 98.86%, Test: 98.93%
+---
+Training Time Per Epoch:  1.2279 s
+---
+Hits@10
+Run 01:
+Highest Train: 58.45
+Highest Valid: 52.27
+  Final Train: 58.45
+   Final Test: 29.69
+Hits@50
+Run 01:
+Highest Train: 80.64
+Highest Valid: 73.13
+  Final Train: 80.64
+   Final Test: 60.15
+Hits@100
+Run 01:
+Highest Train: 91.59
+Highest Valid: 85.49
+  Final Train: 91.59
+   Final Test: 74.50
+AUC
+Run 01:
+Highest Train: 99.43
+Highest Valid: 98.96
+  Final Train: 99.43
+   Final Test: 98.98
+Hits@10
+All runs:
+Highest Train: 58.45 ± nan
+Highest Valid: 52.27 ± nan
+  Final Train: 58.45 ± nan
+   Final Test: 29.69 ± nan
+Hits@50
+All runs:
+Highest Train: 80.64 ± nan
+Highest Valid: 73.13 ± nan
+  Final Train: 80.64 ± nan
+   Final Test: 60.15 ± nan
+Hits@100
+All runs:
+Highest Train: 91.59 ± nan
+Highest Valid: 85.49 ± nan
+  Final Train: 91.59 ± nan
+   Final Test: 74.50 ± nan
+AUC
+All runs:
+Highest Train: 99.43 ± nan
+Highest Valid: 98.96 ± nan
+  Final Train: 99.43 ± nan
+   Final Test: 98.98 ± nan

@@ -9,7 +9,8 @@
 
 datasets/
 
-HL-GNN/
-! HL-GNN/note/
+HL-GNN/*
+!HL-GNN/
+!HL-GNN/note/
 
 problem_setup/

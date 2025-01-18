@@ -1,0 +1,2 @@
+Hits@50
+Epoch: 99, Best epoch: 43, Loss: 0.0003, Train: 100.00%, Valid: 66.59%, Test: 66.00%, epoch time: 10.2
