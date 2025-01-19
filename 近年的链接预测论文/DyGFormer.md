@@ -1,5 +1,13 @@
 # Towards Better Dynamic Graph Learning: New Architecture and Unified Library
 
+**DyGFormer从节点历史首跳交互序列中学习**
+
+“历史首跳”（historical first-hop interactions）是指动态图中某节点与其直接邻居（即“一跳”距离内的节点）之间的交互记录。这些交互包括节点的源节点（source node）和目标节点（destination node）在过去某段时间内的连接关系以及时间戳。DyGFormer模型从这些交互记录中学习，而不需要考虑更远的多跳邻居关系。
+
+通过仅学习这些首跳交互，DyGFormer将动态图学习问题简化为一个序列学习问题。这种方法相比于依赖多跳交互的方法（例如DyRep、TGAT等），计算量更小，同时避免了采样策略和复杂模块带来的计算开销问题。
+
+这种设计的关键在于模型通过“邻居共现编码方案”（neighbor co-occurrence encoding scheme）探索源节点和目标节点之间的相关性，并通过“分片技术”（patching technique）进一步高效地捕获长期的时间依赖性。
+
 ---
 
 ## DyGFormer
@@ -10,7 +18,7 @@
     许多方法只能处理较短的交互历史，面对较长的交互历史时，需要采样策略，这可能导致信息的丢失。
 
 ### 模型结构
-![alt text](image.png)
+![alt text](image-5.png)
 
 ### 1. **基本概念**
 - **输入数据**：DyGFormer接收动态图的交互数据，表示为时间序列的节点交互（如：源节点、目标节点、时间戳）。
