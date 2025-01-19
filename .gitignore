@@ -3,9 +3,10 @@
 记录.md
 经验.md
 
-规定的文章/rs.bat
-近年的链接预测论文/remove_spaces.bat
-近年的链接预测论文/remove_spaces.py
+rs.bat
+cm.bat
+remove_spaces.bat
+remove_spaces.py
 
 datasets/
 
