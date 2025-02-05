@@ -58,9 +58,24 @@ Link-MoE模型的核心思想是通过结合多个GNN专家和动态选择合适
 ---
 ## 文章内容
 
+### 2 Related Work
+
+组合启发式方法的效果，和不同启发式方法的重叠率
+![alt text](image-3.png)
+
+Feature Cosine Similarity (FCS) 是一种用于衡量节点之间相似性的方法
+
+   \[
+   \text{FCS}(u, v) = \frac{\mathbf{f}(u) \cdot \mathbf{f}(v)}{\|\mathbf{f}(u)\| \|\mathbf{f}(v)\|}
+   \]
+  
+   其中，\(\mathbf{f}(u)\) 和 \(\mathbf{f}(v)\) 是节点 \(u\) 和 \(v\) 的特征向量。
+
+
 ### 3 Preliminary
 
 ### 3.1 Exploring Heuristics in Link Prediction
+
 三种重要的成对因子类型
 1. 局部结构邻近度：公共邻居 (CN)
 2. 全局结构邻近度：最短路径 (SP)
@@ -93,6 +108,9 @@ Hits@3 作为较小数据集的指标，采用 Hits@20 作为较大 OGB 数据�
 **将启发式结合会得到更好的性能，但相比GNN4LP还有差距**
 
 ### 3.2 Exploring GNN4LP Models and Heuristics
+
+![alt text](image-4.png)
+
 **注意到**：
 - 不同 GNN4LP 模型之间的重叠率相对较低，这表明每个模型都能够预测一组独特的链接
 - 不同的 GNN4LP 模型与不同的启发式方法的重叠程度不同
@@ -116,6 +134,11 @@ Hits@3 作为较小数据集的指标，采用 Hits@20 作为较大 OGB 数据�
 两节点结构 \( \to \) MLP \( \to \) \( \downarrow \)
 两节点特征 \( \to \) MLP \( \to \) 拼接 \( \to \) MLP（softmax激活函数）
 
+- 考虑 CN [10]、AA [18] 和 RA [19] 来模拟局部结构接近度
+- 使用最短路径、Katz 指数 [11] 和 PPR [44] 来模拟全局结构接近度
+- 利用逐元素乘积来推导节点对 (i, j) 的特征启发式方法
+- 结构和特征分别使用一个MLP处理，以应对节点特征向量长度（可能很大）和结构表示维度的显著差别
+
 ### 4.3 Optimization of Link-MoE
 
 **混合专家的训练方式**
@@ -138,3 +161,20 @@ Hits@3 作为较小数据集的指标，采用 Hits@20 作为较大 OGB 数据�
 - CNs [10], AA [18], RA [19], Shortest Path [43], Katz [11],
 - Node2Vec [49], Matrix Factorization (MF) [50], MLP, GCN [23], GAT [51], SAGE [24], GAE [25],
 - SEAL [15], BUDDY [26], Neo-GNN [14], NCN and NCNC [13], NBFNet [16], PEG [52], LPFormer [27]
+
+**门控机制的有效性**：
+设计Mean-Ensemble和Global-Ensemble基线方法，并和Link-MoE对比
+
+并非每个专家模型对预测都有显著贡献，门控模型会根据某些模型的重叠能力选择其中一个，以避免冗余并优化预测效果。
+
+**潜在改进方向**：
+尽管Link-MoE成功利用启发式信息选择合适的专家，但仍有改进空间。例如，尽管Neo-GNN和NCNC在ogbl-collab数据集上的重叠比例不高，Neo-GNN的权重却非常低，这表明在链接预测中的MoE应用仍有待进一步发展。
+
+**GPU**：
+NVIDIA RTX A6000 GPU with 48GB memory
+
+## 代码
+运行一个基准库中的多个：
+1. GNN模型 \( \to \) 节点嵌入
+2. 启发式方法 \( \to \) 边预测的评分
+
