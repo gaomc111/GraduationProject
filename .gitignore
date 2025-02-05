@@ -5,6 +5,7 @@
 
 rs.bat
 cm.bat
+cr.bat
 remove_spaces.bat
 remove_spaces.py
 
@@ -14,4 +15,8 @@ HL-GNN/*
 !HL-GNN/
 !HL-GNN/note/
 
-problem_setup/
+
+problem_setup/get_list.py
+problem_setup/getname.py
+problem_setup/list.txt
+problem_setup/extracted_references.txt
