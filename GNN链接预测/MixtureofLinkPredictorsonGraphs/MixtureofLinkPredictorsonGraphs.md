@@ -173,6 +173,9 @@ Hits@3 作为较小数据集的指标，采用 Hits@20 作为较大 OGB 数据�
 **GPU**：
 NVIDIA RTX A6000 GPU with 48GB memory
 
+**实验结果**：
+![alt text](image-5.png)
+
 ## 代码
 运行一个基准库中的多个：
 1. GNN模型 \( \to \) 节点嵌入
