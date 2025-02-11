@@ -157,20 +157,44 @@ A_{\tau+1} = f_{TLP} (A_{\tau-\ell:\tau}, B_{\tau-\ell:\tau}, X_{\tau-\ell:\tau}
 
 ## 谁引用了这篇文章
 1. Hao Wu, Yan Qiao, Xin Luo, "A Fine-Grained Regularization Scheme for Non-negative Latent Factorization of High-Dimensional and Incomplete Tensors", IEEE Transactions on Services Computing, vol.17, no.6, pp.3006-3021, 2024.
+   - 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
    - 不完整向量，动态加权有向图（DWDN）
    - 给定动态加权图$G$在时间$K$内的快照序列$G_1, G_2, ..., G_K$
    - 高维不完整向量（HDI）：
      - 时间$k$时的有权重有向邻接矩阵$M_k$，时间$k\in\{0, 1, ..., K\}$内的$M_k$按顺序排列成高维不完整向量$Y^{|I|×|J|×|K|}$
      - 已知连接$|\Lambda|\ll$未知连接$|\Gamma|$
    - 预测一个接近$Y$的低秩$\hat{Y}$
+   - **内插**
 2. Hao Wu, Weiling Li, "Link Prediction for Dynamic Weighted Graph via Adaptive Nonnegative Tensor CP Decomposition", 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp.3462-3466, 2024.
+   - IEEE TRANSACTIONS ON SERVICES COMPUTING, VOL. 17, NO. 6, NOVEMBER/DECEMBER 2024
    - 动态加权图
-   - 给定动态加权图$G$在时间$K$内的快照序列$G_1, G_2, ..., G_K$
-   - 预测$G_k \quad k\in\{0, 1, ..., K\}$中缺失的有权重有向链接
+     ![alt text](image-5.png)
+   - 给定动态加权图 $G$ 在时间 $K$ 内的快照序列 $G_1, G_2, ..., G_K$ 
+   - 预测 $G_k \quad k\in\{0, 1, ..., K\}$ 中缺失的有权重有向链接
+   - **内插**
 3. Tingxuan Chen, Jun Long, Zidong Wang, Shuai Luo, Jincai Huang, Liu Yang, "THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs", IEEE Transactions on Knowledge and Data Engineering, vol.36, no.12, pp.9374-9387, 2024.
+   - IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING, VOL. 36, NO. 12, DECEMBER 2024
+   - 时间知识图谱（TKG）
+   - **外推**
+   - TKG：有向无加权图 $G_{(1,\tau)} = \{G_1, G_2, ..., G_{\tau}\}$
+      每个子图 $G_t = \{\mathcal{V}_t, \mathcal{E}_t, \mathcal{F}_t\}$ 定义在离散时间上
+      $\mathcal{F}$ 集合的结构为 $(s,r,o,t)$ （源，关系，目标，时间）
+   - 预测任务：
+     1. 实体预测： $(?,r,o,t)$ $(s,r,?,t)$
+     2. 关系预测： $(s,?,o,t)$
 4. Mengyu Shi, Jun Li, "Comprehensive Optimization Training Framework for TSK Fuzzy Systems: Applications of MBGD, AMPO, and RDA", 2024 9th International Symposium on Computer and Information Processing Technology (ISCIPT), pp.70-75, 2024.
+   - 2024 9th International Symposium on Computer and Information Processing Technology (ISCIPT)
+   - 完全无关，似乎是为了凑数引用这篇😅
 5. Qu Wang, Hao Wu, "Dynamically Weighted Directed Network Link Prediction Using Tensor Ring Decomposition", 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD), pp.2864-2869, 2024.
+   - Proceedings of the 2024 27th International Conference on Computer Supported Cooperative Work in Design
+   - 动态加权有向网络（DWDN）
+     ![alt text](image-6.png)
+   - $Y^{|I|×|J|×|K|}$，其中 $y_{ijk}$ 代表在时间点 $k \in K$ 从节点 $i \in I$ 指向节点 $j \in J$ 的有向加权连接<br/>已知的元素集 $|\Lambda| \ll$ 未知的元素集 $|\Gamma|$
+   - 预测 $Y$ 的低秩近似向量 $\hat{Y}$
+   - **内插**
 6. Akshi Kumar, Abhishek Mallik, Sanjay Kumar, "TLP-NEGCN: Temporal Link Prediction via Network Embedding and Graph Convolutional Networks", IEEE Transactions on Computational Social Systems, vol.11, no.3, pp.4454-4464, 2024.
+   -  IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS, VOL. 11, NO. 3, JUNE 2024
+   -  
 7. Fateme Mohamady, Sina Dami, "Link Prediction in Dynamic Social Networks Using Deep Learning", 2024 20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP), pp.1-5, 2024.
 8. Yanting Yin, Yajing Wu, Xuebing Yang, Wensheng Zhang, Xiaojie Yuan, "Super Resolution Graph With Conditional Normalizing Flows for Temporal Link Prediction", IEEE Transactions on Knowledge and Data Engineering, vol.36, no.3, pp.1311-1327, 2024.
 9.  Yu Gao, Meng Qin, Yibin Ding, Li Zeng, Chaorui Zhang, Weixi Zhang, Wei Han, Rongqian Zhao, Bo Bai, "RaftGP: Random Fast Graph Partitioning", 2023 IEEE High Performance Extreme Computing Conference (HPEC), pp.1-7, 2023.
