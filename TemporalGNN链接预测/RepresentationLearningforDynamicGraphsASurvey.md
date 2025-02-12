@@ -620,3 +620,16 @@ L层的GCN中，节点最多从L跳以外的节点接收信息
 ---
 
 ## 谁引用了这篇文章
+1. Temporal Graph Benchmark for Machine Learning on Temporal Graphs
+   - 外延
+   - 时间戳
+   - **TGB数据集**
+2. Dynamic Graph Neural Networks for Sequential Recommendation
+   - 序列推荐
+     - 对每一个用户 $u\in \mathcal{U}$，有用户的交互序列 $S^u=(i_1, i_2, ..., i_k)\quad i_k\in \mathcal{I}$ 及其对应的时间戳 $T^u=(t_1, t_2, ..., t_k)$ 
+     - 给定长度为 $n$ 的 $S^u$ 序列，预测 $S^u$ 的下一个项目
+   - 外延
+   - 时间戳
+3. Provably expressive temporal graph networks
+   - 时间图网络（TGN）
+   - 

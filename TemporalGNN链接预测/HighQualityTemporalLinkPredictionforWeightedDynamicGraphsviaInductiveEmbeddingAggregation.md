@@ -193,9 +193,16 @@ A_{\tau+1} = f_{TLP} (A_{\tau-\ell:\tau}, B_{\tau-\ell:\tau}, X_{\tau-\ell:\tau}
    - 预测 $Y$ 的低秩近似向量 $\hat{Y}$
    - **内插**
 6. Akshi Kumar, Abhishek Mallik, Sanjay Kumar, "TLP-NEGCN: Temporal Link Prediction via Network Embedding and Graph Convolutional Networks", IEEE Transactions on Computational Social Systems, vol.11, no.3, pp.4454-4464, 2024.
-   -  IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS, VOL. 11, NO. 3, JUNE 2024
-   -  
+   - IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS, VOL. 11, NO. 3, JUNE 2024
+   - **TLP-NEGCN，新的动态图链路预测方法**，嵌入 + GCN + BiLSTM
+   - **外延**
+   - 给定一组带时间戳的边 $E = (u,v,t) \ |\  t \le t_k$
+   - 预测时刻 $t>t_k$ 的边的存在 $E' = (u,v,t) \ |\  t > t_k$
+   - 使用的数据集结构： $G(V,E,T)=\{ g_0, g_1, ..., g_{T-1}\}$ ，其中 $g_i$ 是第 $i$ 个时间戳的图
+   - 数据集划分：![alt text](image-7.png)
 7. Fateme Mohamady, Sina Dami, "Link Prediction in Dynamic Social Networks Using Deep Learning", 2024 20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP), pp.1-5, 2024.
+   - 2024 20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP) 
+   - 文章没提设定😅
 8. Yanting Yin, Yajing Wu, Xuebing Yang, Wensheng Zhang, Xiaojie Yuan, "Super Resolution Graph With Conditional Normalizing Flows for Temporal Link Prediction", IEEE Transactions on Knowledge and Data Engineering, vol.36, no.3, pp.1311-1327, 2024.
 9.  Yu Gao, Meng Qin, Yibin Ding, Li Zeng, Chaorui Zhang, Weixi Zhang, Wei Han, Rongqian Zhao, Bo Bai, "RaftGP: Random Fast Graph Partitioning", 2023 IEEE High Performance Extreme Computing Conference (HPEC), pp.1-7, 2023.
 10. Yinuo Qian, Fuzhong Nian, Zheming Wang, Yabing Yao, "Research on the Influence of Information Iterative Propagation on Complex Network Structure", Big Data, 2024.
