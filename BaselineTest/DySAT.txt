@@ -1,0 +1,43 @@
+Time for epoch  0.152233123779
+Epoch 193, Val AUC 0.902646502836
+Epoch 193, Test AUC 0.875938098442
+Mean Loss at epoch 193 : 17.2347755432
+Epoch: 0195
+Time for epoch  0.156704902649
+Epoch 194, Val AUC 0.90359168242
+Epoch 194, Test AUC 0.876559184307
+Mean Loss at epoch 194 : 17.2899074554
+Epoch: 0196
+Time for epoch  0.146129131317
+Epoch 195, Val AUC 0.901701323251
+Epoch 195, Test AUC 0.876093369908
+Mean Loss at epoch 195 : 17.228427887
+Epoch: 0197
+Time for epoch  0.150437831879
+Epoch 196, Val AUC 0.901701323251
+Epoch 196, Test AUC 0.876196884219
+Mean Loss at epoch 196 : 17.2499256134
+Epoch: 0198
+Time for epoch  0.151394128799
+Epoch 197, Val AUC 0.90359168242
+Epoch 197, Test AUC 0.876714455774
+Mean Loss at epoch 197 : 17.1661052704
+Epoch: 0199
+Time for epoch  0.150573015213
+Epoch 198, Val AUC 0.903119092628
+Epoch 198, Test AUC 0.877594327416
+Mean Loss at epoch 198 : 17.1885204315
+Epoch: 0200
+Time for epoch  0.146508932114
+Epoch 199, Val AUC 0.899338374291
+Epoch 199, Test AUC 0.877490813105
+Mean Loss at epoch 199 : 17.1373653412
+Best epoch  183
+Best epoch val results defaultdict(<function <lambda> at 0x7fad3c3129d0>, {'HAD': [0.9078449905482041, 0.9078449905482041], 'SIGMOID': [0.9059546313799622, 0.9059546313799622]})
+
+Best epoch test results defaultdict(<function <lambda> at 0x7fad3c312bd0>, {'HAD': [0.8742818694684541, 0.8742818694684541], 'SIGMOID': [0.8790952849231407, 0.8790952849231407]})
+
+default results (val) [0.9078449905482041, 0.9078449905482041]
+default results (val) [0.9059546313799622, 0.9059546313799622]
+default results (test) [0.8742818694684541, 0.8742818694684541]
+default results (test) [0.8790952849231407, 0.8790952849231407]
