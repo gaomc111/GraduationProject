@@ -46,9 +46,11 @@ Internet: [IoT](https://iotanalytics.unsw.edu.au/iottraces.html), [WIDE](https:/
   - **有实现**，tensorflow
 - **EvolveGCN**:
   - **有实现**
+  - 数据集：SBM, BC-OTC, BC-Alpha, UCI, AS, Reddit, Elliptic
 - **DySAT**:
   - Dysat: Deep neural representation learning on dynamic graphs via self-attention networks
   - **上古实现**，python2.7 + tensorflow
+  - 数据集Enron, UCI, Yelp, ML-10M(MovieLens)
 - **STGSN**：
   - STGSN — A Spatial–Temporal Graph Neural Network framework for time-evolving social networks
   - 无
@@ -70,3 +72,5 @@ Internet: [IoT](https://iotanalytics.unsw.edu.au/iottraces.html), [WIDE](https:/
   - 新conda环境`DySAT`
   - 能运行
   - [DySAT](DySAT.txt)
+
+
