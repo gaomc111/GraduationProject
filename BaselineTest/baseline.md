@@ -96,3 +96,4 @@ Internet: [IoT](https://iotanalytics.unsw.edu.au/iottraces.html), [WIDE](https:/
 [ddne_demo2](ddne_demo2.txt)
 [stgsn_demo2](stgsn_demo2.txt)
 [gcn_gan_demo](gcn_gan_demo.txt)
+[networkgan](networkgan.txt)
