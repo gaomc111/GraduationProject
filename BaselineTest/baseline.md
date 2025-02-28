@@ -23,24 +23,25 @@ Internet: [IoT](https://iotanalytics.unsw.edu.au/iottraces.html), [WIDE](https:/
 **论文指标**：
 ![alt text](image-1.png)
 
+
 ## 基线方法实现情况
 - **CRJMF**：
   - Temporal link prediction by integrating content and structure information
-  - 无
+  - 无，"HighQuality..."作者使用Matlab，已发邮件
 - **DeepEye**：
   - DEEPEYE: Link Prediction in Dynamic Networks Based on Non-negative Matrix Factorization
-  - 无
+  - 无，"HighQuality..."作者使用Matlab，已发邮件
 - **TMF**:
   - Temporally Factorized Network Modeling for Evolutionary Network Analysis
-  - 无
+  - 无，已发邮件
 - **LIST**：
   - Link prediction with spatial and temporal consistency in dynamic Networks
-  - 无
+  - 无，已发邮件
 - **D2V**:
   - **部分实现**，DynamicGEM
 - **DDNE**：
   - Deep Dynamic Network Embedding for Link Prediction
-  - 无
+  - 无，已发邮件
 - **E-LSTM-D**：
   - E-LSTM-D: A Deep Learning Framework for Dynamic Network Link Prediction
   - **有实现**，tensorflow
@@ -53,13 +54,14 @@ Internet: [IoT](https://iotanalytics.unsw.edu.au/iottraces.html), [WIDE](https:/
   - 数据集Enron, UCI, Yelp, ML-10M(MovieLens)
 - **STGSN**：
   - STGSN — A Spatial–Temporal Graph Neural Network framework for time-evolving social networks
-  - 无
+  - 无，已发邮件
 - **GCN-GAN**：
-  - GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks
+  - GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks  
   - **民间实现**，报一堆错
 - **NetGAN**：
   - An Advanced Deep Generative Framework for Temporal Link Prediction in Dynamic Networks
-  - 无
+  - 无，已发邮件
+
 
 ## 测试结果
 - **E-LSTM-D**：
@@ -74,3 +76,23 @@ Internet: [IoT](https://iotanalytics.unsw.edu.au/iottraces.html), [WIDE](https:/
   - [DySAT](DySAT.txt)
 
 
+## OpenTLP库
+
+> Temporal Link Prediction: A Unified Framework, Taxonomy, and Review
+> [github](https://github.com/KuroginQin/OpenTLP)
+> [readme](OpenTLP_readme.md)
+
+![alt text](image-2.png)
+![alt text](image-4.png)
+![alt text](image-3.png)
+
+
+## 基于OpenTLP库的测试结果
+[tmf_demo1](tmf_demo1.txt)
+[list_demo1](list_demo1.txt)
+[list_demo2](list_demo2.txt)
+[E_LSTM_D_demo2](E_LSTM_D_demo2.txt)
+[dyngraph2vec_demo2](dyngraph2vec_demo2.txt)
+[ddne_demo2](ddne_demo2.txt)
+[stgsn_demo2](stgsn_demo2.txt)
+[gcn_gan_demo](gcn_gan_demo.txt)

@@ -200,6 +200,8 @@ A_{\tau+1} = f_{TLP} (A_{\tau-\ell:\tau}, B_{\tau-\ell:\tau}, X_{\tau-\ell:\tau}
    - 预测时刻 $t>t_k$ 的边的存在 $E' = (u,v,t) \ |\  t > t_k$
    - 使用的数据集结构： $G(V,E,T)=\{ g_0, g_1, ..., g_{T-1}\}$ ，其中 $g_i$ 是第 $i$ 个时间戳的图
    - 数据集划分：![alt text](image-7.png)
+   - 数据集：MathOverflow, Email, CollegeMsg, Bitcion-OTC, Bitcoin-Alpha, Reddit, SBM1000, SBM5000
+   - 基线：TemporalWalk, GraphSage, GCN, EMLP, DCNN, LGQ, CTDNE, TLPSS, TLP-NEGCN
 7. Fateme Mohamady, Sina Dami, "Link Prediction in Dynamic Social Networks Using Deep Learning", 2024 20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP), pp.1-5, 2024.
    - 2024 20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP) 
    - 文章没提设定😅
