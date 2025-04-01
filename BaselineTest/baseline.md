@@ -2,7 +2,7 @@
 
 ## Datasets & Baseline论文内容
 
-**Datasets**：
+**论文中的Datasets**：
 
 - Network dataset: 
   - [Mesh](https://crawdad.org/ucsb/meshnet/20070201/)
@@ -15,6 +15,15 @@
 - Internet: 
   - [IoT](https://iotanalytics.unsw.edu.au/iottraces.html)
   - [WIDE](https://mawi.wide.ad.jp/mawi/)
+
+**选用的数据集**：
+- Mesh
+- Hmob
+- T-Drive
+- IoT
+- sbm_50t_1000n_adj
+- soc-sign-bitcoinalpha
+- soc-sign-bitcoinotc
 
 **获取情况**
 
